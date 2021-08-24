@@ -2,7 +2,7 @@
     "name": "trevor-uehlin/wp-installation",
     "description": "A wordpress install that is in a 'out of the box' state.",
     "minimum-stability": "dev",
-    "type":"wordpress-install",
+    "type":"wordpress-theme",
     "prefer-stable": true,
     "repositories": [
         {
