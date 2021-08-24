@@ -1,0 +1,22 @@
+{
+    "name": "trevor-uehlin/wp-installation",
+    "description": "A wordpress install that is in a 'out of the box' state.",
+    "minimum-stability": "dev",
+    "type":"wordpress-install",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "extra": {
+    	"installer-paths": {}
+    },
+    "require": {
+        "composer/installers":"~1.0",
+        "trevor-uehlin/company-theme":"dev-development",
+        "trevor-uehlin/wp-plugin-salesforce":"dev-development",
+        "trevor-uehlin/wp-plugin-composer":"dev-development"
+    }
+}
