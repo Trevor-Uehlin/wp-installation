@@ -15,8 +15,6 @@
     },
     "require": {
         "composer/installers":"~1.0",
-        "trevor-uehlin/company-theme":"dev-development",
-        "trevor-uehlin/wp-plugin-salesforce":"dev-development",
-        "trevor-uehlin/wp-plugin-composer":"dev-development"
+        "trevor-uehlin/wp-theme-template":"dev-development"
     }
 }
