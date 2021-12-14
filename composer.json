@@ -13,8 +13,5 @@
     "extra": {
     	"installer-paths": {}
     },
-    "require": {
-        "composer/installers":"~1.0",
-        "trevor-uehlin/wp-theme-company":"dev-main"
-    }
+    "require": {}
 }
