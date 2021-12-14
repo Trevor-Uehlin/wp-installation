@@ -15,6 +15,6 @@
     },
     "require": {
         "composer/installers":"~1.0",
-        "trevor-uehlin/wp-theme-template":"dev-development"
+        "trevor-uehlin/wp-theme-company":"dev-main"
     }
 }
